@@ -1,0 +1,5 @@
+.master.key
+env.sh
+.credentials.yml.enc
+/local
+/tmp/*
